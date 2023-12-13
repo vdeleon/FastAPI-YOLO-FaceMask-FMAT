@@ -9,14 +9,9 @@ Python 3.8 or later with all requirements.txt dependencies installed, including 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install FastAPI-YOLO-FaceMask-FMAT.
 
 ```bash
-pip install -r requirements.txt
-```
-
-To install run:
-```
 pip install -r requirements.txt
 ```
 
