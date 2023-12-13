@@ -21,6 +21,11 @@ pip install -r requirements.txt
 python3 server.py
 ```
 
+## Screen Shots
+![screen](ss1.png)
+![screen2](ss2.png)
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
